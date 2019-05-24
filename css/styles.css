@@ -1,0 +1,10 @@
+body {
+  background-image: url('../image/img1.jpg');
+}
+header {
+  position: relative ;
+  background-color: #454A57 ;
+  font-size: 28px ;
+  color: white ;
+  width: hsl(360, 100%, 100%);
+}
