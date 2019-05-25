@@ -53,7 +53,7 @@ table {
 
 }
 .about {
-  height: 700px ;
+  height: 600px ;
   margin: 50px ;
   margin-bottom: 20px ;
   padding: 20px ;
@@ -92,14 +92,15 @@ header {
 }
 .projects {
   font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-  font-size: 20px ;
-  height: 700px ;
+  font-size: 28px ;
+  height: 500px ;
   margin: 100px ;
+  text-align: center;
 
 }
 .contacts {
   background-image: url('../image/1.jpg');
-  min-height: 100px ;
+  min-height: 200px ;
   width: 100% ;
   color: white ;
   font-size: 20px ;
@@ -125,4 +126,40 @@ li {
   background-color: inherit;
   text-align: center;
   border-radius: 12px ;
+}
+.navp {
+  padding-left: 100px ;
+  padding-right: 100px ;
+  padding-top: 30px ;
+}
+.navp a {
+  text-decoration: none;
+  font-weight: bold;
+  color: black ;
+
+
+
+}
+.first {
+  background-image: url('../image/f.jpg');
+  padding-bottom: 200px ;
+  padding-left: 80px ;
+  padding-right: 80px ;
+  text-align: center;
+  margin-left: 50px ;
+
+}
+.fav {
+  background-image: url('../image/f.jpg');
+  padding-bottom: 200px ;
+  padding-left: 80px ;
+  padding-right: 80px ;
+  text-align: center;
+  margin-left: 50px ;
+
+}
+.cont {
+  text-align: center;
+  font-family: "Garamond Header" ;
+
 }
